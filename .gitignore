@@ -1,0 +1,15 @@
+# Compiled executables
+sysinfo_host
+sysinfo_target
+sysinfo_target_native
+sysinfo_target_static
+
+# Text outputs
+host_output.txt
+test_output.txt
+test_output_target.txt
+target_native_output.txt
+
+# OS-specific
+.DS_Store
+Thumbs.db
